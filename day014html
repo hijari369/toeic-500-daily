@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <title>TOEIC500点｜Day014</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body{font-family:system-ui,sans-serif;background:#f7f7f7;padding:20px;line-height:1.8}
+    .box{background:#fff;padding:20px;border-radius:10px;max-width:760px;margin:auto}
+    .q{margin:14px 0;padding:12px;border:1px solid #ddd;border-radius:8px;background:#fafafa}
+    details{margin-top:8px;padding:8px;background:#fff;border:1px solid #ccc;border-radius:8px}
+    summary{cursor:pointer;font-weight:bold}
+    .key{font-weight:700}
+    .nav{margin:14px 0;padding:12px;border:1px solid #ddd;border-radius:8px;background:#fff}
+    .nav a{display:block;margin:4px 0}
+  </style>
+</head>
+<body>
+<div class="box">
+  <h1>📘 TOEIC500点 毎日ミニ問題</h1>
+  <h2>Day014</h2>
+  <p>👉 まず問題を解く → <span class="key">答えを見る</span>で確認（5分）</p>
+
+  <h3>Part5（品詞）</h3>
+  <div class="q">
+    <b>Q1.</b> The manager spoke ( ) about the new schedule.<br>
+    A) clear　B) clearly　C) clarity　D) clearing
+    <details>
+      <summary>答えを見る</summary>
+      ✅ 正解：B <span class="key">clearly</span><br>
+      解説：spoke（話した）を説明するのは副詞。clearly＝はっきりと／明確に。<br>
+      和訳：そのマネージャーは新しいスケジュールについて、はっきりと話しました。
+    </details>
+  </div>
+
+  <h3>Part5（文法）</h3>
+  <div class="q">
+    <b>Q2.</b> The report must be finished ( ) Friday.<br>
+    A) in　B) at　C) by　D) on
+    <details>
+      <summary>答えを見る</summary>
+      ✅ 正解：C <span class="key">by</span><br>
+      解説：by は「〜までに（期限）」。Friday までに終える＝by Friday。<br>
+      和訳：そのレポートは金曜日までに完成させなければなりません。
+    </details>
+  </div>
+
+  <h3>Part5（語彙）</h3>
+  <div class="q">
+    <b>Q3.</b> Please ( ) your password regularly for security reasons.<br>
+    A) change　B) charge　C) choose　D) check
+    <details>
+      <summary>答えを見る</summary>
+      ✅ 正解：A <span class="key">change</span><br>
+      解説：password を regularly（定期的に）するのは change（変更する）が自然。security reasons（セキュリティ上の理由）とも相性◎。<br>
+      和訳：セキュリティ上の理由から、パスワードは定期的に変更してください。
+    </details>
+  </div>
+
+  <h3>Part6（文選択：文章問題）</h3>
+  <div class="q">
+    <b>Text:</b><br>
+    Dear Team,<br>
+    We will hold a short meeting tomorrow at 10 a.m. in Conference Room B.<br>
+    ( ① )<br>
+    Please be on time, as we have a full schedule this week.<br>
+    Thank you,<br>
+    Kenji Tanaka
+    <br><br>
+
+    <b>Q4.</b> (①) に入る最も自然な文はどれ？<br>
+    A) The cafeteria will serve lunch starting at 11 a.m.<br>
+    B) We will discuss the new project timeline and assign tasks.<br>
+    C) The parking garage will be closed for maintenance next month.<br>
+    D) This email was sent to customers who visited our website.
+    <details>
+      <summary>答えを見る</summary>
+      ✅ 正解：B <span class="key">We will discuss the new project timeline and assign tasks.</span><br>
+      解説：会議の案内メールなので、空欄には「会議で何をするか（議題）」が入るのが自然。timeline と tasks は会議でよく出る表現。<br>
+      和訳（全文）：<br>
+      チームのみなさんへ、<br>
+      明日10時に会議室Bで短いミーティングを行います。<br>
+      （新しいプロジェクトのスケジュールについて話し合い、担当を割り当てます。）<br>
+      今週は予定が詰まっているので、時間厳守でお願いします。<br>
+      ありがとう。／田中健二
+    </details>
+  </div>
+
+  <h3>Part7（短文読解：文章問題）</h3>
+  <div class="q">
+    <b>Text:</b><br>
+    Email: Hi Mia, your package has been delivered to the reception desk. Please pick it up before 6 p.m.
+    If you cannot come today, let us know and we will store it until tomorrow. — Building Staff
+    <br><br>
+
+    <b>Q5.</b> What should Mia do if she cannot come today?<br>
+    A) Ask the building staff to store the package until tomorrow<br>
+    B) Pick up the package at the reception desk before 6 p.m.<br>
+    C) Call the delivery company to resend the package<br>
+    D) Leave the package at the front entrance
+    <details>
+      <summary>答えを見る</summary>
+      ✅ 正解：A <span class="key">Ask the building staff to store the package until tomorrow</span><br>
+      解説：If you cannot come today, let us know and we will store it until tomorrow（来られないなら連絡して。明日まで保管する）とある。<br>
+      和訳（全文）：<br>
+      メール：こんにちはミア。あなたの荷物は受付に配達されました。午後6時までに受け取ってください。<br>
+      もし今日来られない場合は連絡してください。そうすれば明日まで保管します。— ビル管理スタッフ<br>
+      和訳（設問）：ミアが今日来られない場合、何をすべき？→ スタッフに連絡して明日まで保管してもらう。
+    </details>
+  </div>
+
+  <div class="nav">
+    <a href="day013.html">⬅ 前日（Day013）へ</a>
+    <a href="archive.html">📚 過去問題一覧</a>
+  </div>
+
+  <p>⏱ 勉強時間：5分目安</p>
+</div>
+</body>
+</html>
