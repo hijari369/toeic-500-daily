@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <title>TOEIC500点｜Day015</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body{font-family:system-ui,sans-serif;background:#f7f7f7;padding:20px;line-height:1.8}
+    .box{background:#fff;padding:20px;border-radius:10px;max-width:760px;margin:auto}
+    .q{margin:14px 0;padding:12px;border:1px solid #ddd;border-radius:8px;background:#fafafa}
+    details{margin-top:8px;padding:8px;background:#fff;border:1px solid #ccc;border-radius:8px}
+    summary{cursor:pointer;font-weight:bold}
+    .key{font-weight:700}
+    .nav{margin:14px 0;padding:12px;border:1px solid #ddd;border-radius:8px;background:#fff}
+    .nav a{display:block;margin:4px 0}
+  </style>
+</head>
+<body>
+<div class="box">
+  <h1>📘 TOEIC500点 毎日ミニ問題</h1>
+  <h2>Day015</h2>
+  <p>👉 まず問題を解く → <span class="key">答えを見る</span>で確認（5分）</p>
+
+  <h3>Part5（品詞）</h3>
+  <div class="q">
+    <b>Q1.</b> The instructions are very ( ) to follow.<br>
+    A) help　B) helpful　C) helpfully　D) helped
+    <details>
+      <summary>答えを見る</summary>
+      ✅ 正解：B <span class="key">helpful</span><br>
+      解説：are の後ろには形容詞が来る。helpful＝役に立つ。<br>
+      和訳：その説明書はとても分かりやすく、役に立ちます。
+    </details>
+  </div>
+
+  <h3>Part5（文法）</h3>
+  <div class="q">
+    <b>Q2.</b> Ms. Brown will contact you as soon as she ( ) the schedule.<br>
+    A) finish　B) finished　C) finishes　D) will finish
+    <details>
+      <summary>答えを見る</summary>
+      ✅ 正解：C <span class="key">finishes</span><br>
+      解説：as soon as（〜したらすぐに）の後ろは未来の内容でも現在形を使う。主語が she なので finishes。<br>
+      和訳：ブラウンさんは、スケジュールが完成し次第、あなたに連絡します。
+    </details>
+  </div>
+
+  <h3>Part5（語彙）</h3>
+  <div class="q">
+    <b>Q3.</b> The meeting was ( ) because the manager was ill.<br>
+    A) canceled　B) attended　C) prepared　D) accepted
+    <details>
+      <summary>答えを見る</summary>
+      ✅ 正解：A <span class="key">canceled</span><br>
+      解説：病気で来られない → 会議は「中止された」が自然。cancel＝中止する。<br>
+      和訳：マネージャーが病気だったため、その会議は中止されました。
+    </details>
+  </div>
+
+  <h3>Part6（文選択：文章問題）</h3>
+  <div class="q">
+    <b>Text:</b><br>
+    Dear Mr. Lee,<br>
+    Thank you for your inquiry about our training program.<br>
+    ( ① )<br>
+    Please let us know if you would like to reserve a seat.<br>
+    Best regards,<br>
+    HR Department
+    <br><br>
+
+    <b>Q4.</b> (①) に入る最も自然な文はどれ？<br>
+    A) The office will be closed on national holidays.<br>
+    B) The next session will begin on April 10 and last for two weeks.<br>
+    C) Lunch is served in the cafeteria from noon.<br>
+    D) This message was sent to all employees.
+    <details>
+      <summary>答えを見る</summary>
+      ✅ 正解：B <span class="key">The next session will begin on April 10 and last for two weeks.</span><br>
+      解説：研修プログラムについての問い合わせ → 次回日程の案内 → 予約の案内、という流れが自然。<br>
+      和訳（全文）：<br>
+      リー様、<br>
+      当社の研修プログラムについてお問い合わせいただきありがとうございます。<br>
+      （次回の研修は4月10日に始まり、2週間続きます。）<br>
+      参加を希望される場合は、お知らせください。<br>
+      敬具／人事部
+    </details>
+  </div>
+
+  <h3>Part7（短文読解：文章問題）</h3>
+  <div class="q">
+    <b>Text:</b><br>
+    Notice: Employees must submit their travel expense reports by the end of the month.
+    Reports received after the deadline may not be reimbursed.
+    <br><br>
+
+    <b>Q5.</b> What may happen if employees submit reports late?<br>
+    A) They may not receive reimbursement<br>
+    B) They must attend a meeting<br>
+    C) They will get extra payment<br>
+    D) They need to resubmit the report immediately
+    <details>
+      <summary>答えを見る</summary>
+      ✅ 正解：A <span class="key">They may not receive reimbursement</span><br>
+      解説：may not be reimbursed＝払い戻されない可能性がある、という意味。<br>
+      和訳（全文）：<br>
+      お知らせ：従業員は月末までに出張精算書を提出しなければなりません。<br>
+      締切後に提出されたものは、払い戻しされない場合があります。<br>
+      和訳（設問）：遅れて提出するとどうなる可能性がありますか？→ 払い戻しされない。
+    </details>
+  </div>
+
+  <div class="nav">
+    <a href="day014.html">⬅ 前日（Day014）へ</a>
+    <a href="archive.html">📚 過去問題一覧</a>
+  </div>
+
+  <p>⏱ 勉強時間：5分目安</p>
+</div>
+</body>
+</html>
